@@ -1,0 +1,9 @@
+#[link(name = "zipper",
+       vers = "0.1",
+       uuid = "23781e40-8ba9-4a76-8215-6e160d41498e",
+       url = "https://github.com/cretz/rusty-zipper")];
+
+#[comment = "libzip bindings and wrapper"];
+#[license = "MIT"];
+#[crate_type = "lib"];
+
